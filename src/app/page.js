@@ -1,4 +1,4 @@
-import Results from '\u0011\u0011@/components/Results';
+import Results from '../components/Results';
 import React from 'react';
 import { resolve } from 'styled-jsx/css';
 
