@@ -1,9 +1,9 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
-import Header from "\u0011\u0011@/components/Header";
+import Header from "../components/Header";
 import Providers from "./Providers";
-import NavBar from "\u0011\u0011@/components/NavBar";
-import SearchBox from "\u0011\u0011@/components/SearchBox";
+import NavBar from "../components/NavBar";
+import SearchBox from "../components/SearchBox";
 
 const inter = Inter({ subsets: ["latin"] });
 
